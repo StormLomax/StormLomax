@@ -1,12 +1,9 @@
 ![Header](./header-image.png)
 # 💫 About Me:
-<table border="0">
- <tr>
-    <td>:wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br></td>
-    <td><img>currently-reading.png</td>img></td>
- </tr>
-</table>
+:wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br>
 
+## Updates
+![currently-learning](https://github.com/user-attachments/assets/862489a3-3c44-4011-ace6-6714cac01ec1)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StormLomax) 
