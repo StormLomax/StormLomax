@@ -1,5 +1,11 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
-Hi, I'm Storm Lomax, a Cloud Engineer at SSE. <br><br>I'm currently working on an author website, as I publish stories in my spare time.<br><br>I'm learning HTML, CSS, and JavaScript, plus Python to help me automate some tasks.<br><br>
+:wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br><br>:woman_technologist:I'm learning:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Splunk<br><br>
 
 
 ## 🌐 Socials:
