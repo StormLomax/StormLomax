@@ -1,11 +1,11 @@
 ![Header](./header-image.png)
 # 💫 About Me:
-:wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br><br>:woman_technologist:I'm learning:
-- HTML
-- CSS
-- JavaScript
-- Python
-- Splunk<br><br>
+<table border="0">
+ <tr>
+    <td>:wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br></td>
+    <td><img>currently-reading.png</td>img></td>
+ </tr>
+</table>
 
 
 ## 🌐 Socials:
