@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 # 💫 About Me:
 :wave: Hi, I'm Storm Lomax, a Site Reliability Cloud Engineer. <br><br>:cloud:I work with Azure and Terraform, and use the GitLab CI/CD pipeline. <br><br>:writing_hand:I'm currently working on building an author website, as I publish stories in my spare time.<br><br>:woman_technologist:I'm learning:
 - HTML
